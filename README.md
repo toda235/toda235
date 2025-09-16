@@ -1,5 +1,5 @@
 ##  Profile
-Toda Yuko
+Toda Yuko  
 Undergraduate Researcher and Computer Science
 
 ##  Contact
