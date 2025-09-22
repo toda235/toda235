@@ -4,6 +4,9 @@ Undergraduate Researcher and Computer Science
 
 ##  Contact
 Email: k520318z@mails.cc.ehime-u.ac.jp
+
+##　Research achievements
+
 <!--
 **toda235/toda235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
