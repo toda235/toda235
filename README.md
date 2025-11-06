@@ -3,7 +3,7 @@ Toda Yuko
 Undergraduate Researcher and Computer Science
 
 ##  Contact
-Email: k520318z@mails.cc.ehime-u.ac.jp
+Email: toda@ai.cs.ehime-u.ac.jp
 
 ##  Domestic Conferences
 - 戸田裕子, 前川大輔, 梶原智之.  
