@@ -1,6 +1,6 @@
 ##  Profile
 Toda Yuko  
-Undergraduate Researcher and Computer Science
+Third-Year Undergraduate Researcher in Computer Science  
 
 ##  Contact
 Email: toda@ai.cs.ehime-u.ac.jp
